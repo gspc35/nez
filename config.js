@@ -6,7 +6,7 @@ window.EMULATOR_CONFIG = {
     // Put the URL to a rom here, and the emulator will automatically start it when the page is first loaded. 
     // If you just put a file name, then put the rom file in the same folder as this file.
     game: null,
-    // game: "game.nes"`
+    // game: "Contra.nes"`
 
     // Settings for the pretty version of the emulator that shows game description, etc... (index.html)
     HTML: {
